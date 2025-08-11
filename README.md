@@ -96,6 +96,8 @@
 ## API для разработчиков
 Для владельцев ботов и мини-приложений сервисы вроде **[Starza](https://t.me/starzamarket_bot?start=source=git)** могут предложить API для интеграции. Это позволяет вашим пользователям покупать звёзды прямо в вашем интерфейсе, а вы будете получать партнёрское вознаграждение.
 
+## API для разработчиков
+
 **Пример JSON-запроса для создания счёта:**
 ```json
 {
@@ -103,10 +105,8 @@
   "user_id": 123456789,
   "amount_stars": 500,
   "payment_method": "sbp",
-  "success_url": "[https://t.me/your_bot?payment=success](https://t.me/your_bot?payment=success)"
+  "success_url": "https://t.me/your_bot?payment=success"
 }
-
----
 
 ## Преимущества использования API
 
