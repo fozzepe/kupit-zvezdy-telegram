@@ -106,6 +106,8 @@
   "success_url": "[https://t.me/your_bot?payment=success](https://t.me/your_bot?payment=success)"
 }
 
+---
+
 ## Преимущества использования API
 
 - **Автоматизация** — полностью автоматический приём платежей без вашего участия.  
